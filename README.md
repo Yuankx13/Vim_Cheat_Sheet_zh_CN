@@ -10,5 +10,7 @@ So, if you are a Chinese speaker, check out this repo and the figures contained.
 
 现存两种图片格式，一种是.svg，一种是.png。SVG格式是用Inkscape编辑的，如果你对我的翻译或排版不满意，欢迎反馈意见，或者自己动手修改svg文件。PNG文件中，有一张是完全透明的，你可以用在任何你想要的背景图上，然后制作自己的鼠标垫——当然，我也提供了一些预制好的。
 
-图片完全来源于网络，如有侵权，请联系本人删除。
+本项目完全开源开放，任何人都可以从这里获取图片，并进行二次加工（实际上应该是三次加工？），如果进行商业使用，也非常欢迎——但请使用质量过关，没有异味的材质制作鼠标垫和桌垫。
+
+壁纸图片完全来源于网络，如有侵权，请联系本人删除。
 All wallpapers are from the internet, if there is any infringement, please contact me to remove them.
